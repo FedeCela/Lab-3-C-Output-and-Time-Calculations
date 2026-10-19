@@ -1,1 +1,9 @@
-
+#include <iostream>
+using namespace std;
+cout << "      *" << endl;
+cout << "     ***" << endl;
+cout << "    *****" << endl;
+cout << "   *******" << endl;
+cout << "    *****" << endl;
+cout << "     ***" << endl;
+cout << "      *" << endl;
